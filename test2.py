@@ -15,7 +15,7 @@ age=int(age)
 age=age+1
 print(f"Next year you will be {age} years old")
 
-height = float(input("Whatis the height of the triangle? "))
-lenght = float(input("What is the lenght of the triangle? "))
-area = height * lenght
+height = float(input("What is the height of the triangle? "))
+length = float(input("What is the length of the triangle? "))
+area = height * length
 print(f"The area of this triangle is {area}cm²")
